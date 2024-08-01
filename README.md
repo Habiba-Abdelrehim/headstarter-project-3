@@ -1,7 +1,3 @@
-Sure, here’s the README with the updated emojis:
-
----
-
 # AI Customer Support 🤖
 
 ## Team Project
