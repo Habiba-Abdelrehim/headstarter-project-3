@@ -7,5 +7,10 @@ This repository contains the code and resources for the AI Customer Support team
 ## Technologies Used
 
 - OpenAI
-- NextJS
+- Next.js
+- React
 - AWS
+- Vercel
+- Streaming
+- Pinecone
+
